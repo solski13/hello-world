@@ -1,1 +1,3 @@
 CHAPTER_2
+
+1.Pirwszy rozdzia³ dodany na laptopie na branchu lokalnym
